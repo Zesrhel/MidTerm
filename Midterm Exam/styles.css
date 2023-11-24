@@ -1,0 +1,156 @@
+/* styles.css */
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #CD4885, #F9CBE0);
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    color: #555;
+    text-align: center;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+    text-align: center;
+}
+
+#result {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#retryButton,
+#logoutButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#retryButton {
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    text-align: center;
+}
+
+#retryButton:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+    text-align: center;
+}
+
+#logoutButton {
+    background-color: #ff5733;
+    color: #fff;
+    border: none;
+    text-align: center;
+}
+/* styles.css */
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #CD4885, #F9CBE0);
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    color: #555;
+    text-align: center;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+button:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+    text-align: center;
+}
+
+#result {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#retryButton,
+#logoutButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#retryButton {
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    text-align: center;
+}
+
+#retryButton:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+    text-align: center;
+}
+
+#logoutButton {
+    background-color: #ff5733;
+    color: #fff;
+    border: none;
+    text-align: center;
+}
